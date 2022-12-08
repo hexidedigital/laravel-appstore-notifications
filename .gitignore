@@ -5,3 +5,5 @@ coverage.clover
 .phpunit.result.cache
 .vscode
 .idea
+*/**/.DS_Store
+.DS_Store

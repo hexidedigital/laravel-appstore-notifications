@@ -69,6 +69,7 @@ This package will send a 200 response if you configured the right Job for the ri
 Apple will retry a couple of times more. The incoming payload is stored in the apple_notifications table.
 
 ### Handling incoming notifications via Jobs
+
 ```php
 <?php
 
